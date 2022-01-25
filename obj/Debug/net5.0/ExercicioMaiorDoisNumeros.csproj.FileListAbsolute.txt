@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ExercicioMaiorDoisNumeros.exe
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ExercicioMaiorDoisNumeros.deps.json
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ExercicioMaiorDoisNumeros.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ExercicioMaiorDoisNumeros.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ExercicioMaiorDoisNumeros.dll
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ref\ExercicioMaiorDoisNumeros.dll
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\bin\Debug\net5.0\ExercicioMaiorDoisNumeros.pdb
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.dll
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ref\ExercicioMaiorDoisNumeros.dll
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.pdb
+C:\xampp\htdocs\udemy\ExercicioMaiorDoisNumeros\obj\Debug\net5.0\ExercicioMaiorDoisNumeros.genruntimeconfig.cache
